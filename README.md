@@ -4,12 +4,13 @@ A responsive, interactive personal portfolio website showcasing skills, projects
 
 ## 🚀 Live Demo
 
-[Portfolio Website](https://your-username.github.io/portfolio) *(Update with your actual deployment URL)*
+[Portfolio Website](https://maniteja-portfolio-azure.vercel.app/)
 
 ## 📋 Features
 
 - **Sticky Navigation** - Fixed header with smooth scrolling
 - **Animated Hero Section** - Text reveals and floating shapes
+- **Dark/Light Mode Toggle** - Theme switching with persistence
 - **Responsive Design** - Works on desktop, tablet, and mobile
 - **Interactive Gallery** - Hover effects and lightbox functionality
 - **Project Showcase** - Detailed project cards with technologies
@@ -52,10 +53,11 @@ A responsive, interactive personal portfolio website showcasing skills, projects
 
 - **Email**: maddurumaniteja@gmail.com
 - **Phone**: +91 79812 90057
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **LeetCode**: [Your LeetCode Profile]
-- **CodeChef**: [Your CodeChef Profile]
+- **GitHub**: [Madduru-ManiTeja](https://github.com/Madduru-ManiTeja)
+- **LinkedIn**: [Madduru Mani Teja](https://www.linkedin.com/in/madduru-mani-teja-485a6b26b/)
+- **LeetCode**: [Maniteja_M](https://leetcode.com/u/Maniteja_M/)
+- **CodeChef**: [maniteja_3157](https://www.codechef.com/users/maniteja_3157)
+- **Codeforces**: [maniteja_m](https://codeforces.com/profile/maniteja_m)
 
 ## 📄 License
 
